@@ -7,5 +7,5 @@ MPIH determina que nossa interação com computadores pode ser afetada pelo func
 - Sistema Motor (SM)
 - Sistema Cognitivo (SC)
 
-![MPIH](Experiencia_de_Usuario/Arquivos/imagem_2026-09-09_195100367.png)
+![MPIH](./Experiencia_de_Usuario/Arquivos/imagem_2026-09-09_195100367.png)
 
