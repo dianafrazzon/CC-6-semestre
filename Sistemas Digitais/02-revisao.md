@@ -56,5 +56,6 @@ Uma porta AND é aquela em que a sua saída é igual à combinação das entrada
 ## Expressão Booleana
 
 Há dois modos de fazermos equações:
-- Soma de produtos, lista as combinações das variáveis para as quais a função de saída vale 1  - Produto de Somas, lista as combinações das variáveis para as quais a função de saída vale 0
+- Soma de produtos, lista as combinações das variáveis para as quais a função de saída vale 1
+- Produto de Somas, lista as combinações das variáveis para as quais a função de saída vale 0
 
