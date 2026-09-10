@@ -20,8 +20,10 @@ MPIH determina que nossa interação com computadores pode ser afetada pelo func
 - Memória de Trabalho (MT)
 - Memória de Curta Duração (MCD)
 - Processador Cognitivo (PC)
+  - princípio básico de operação do MPIH é o ciclo Reconhece-Age do 'PC'   
 - Memória de Longa Duração (MLD)
 
 #### Sistema Motor (SM)
 - Processador Motor (PM)
+	- acionado pela ativação de certos chunks da memória de trabalho, colocando em ação conjuntos de músculos que concretizam a ação física 
 
