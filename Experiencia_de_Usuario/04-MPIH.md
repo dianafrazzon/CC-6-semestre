@@ -11,12 +11,12 @@ MPIH determina que nossa interação com computadores pode ser afetada pelo func
 
 ![MPIH](https://github.com/dianafrazzon/CC-6-semestre/blob/main/Experiencia_de_Usuario/Arquivos/imagem_2026-09-09_195100367.png)
 
-#### Sistema Perceptual (SP)
+### Sistema Perceptual (SP)
 - Processador Perceptual (PP)
 - Memória Imagem Visual (MIV)
 - Memória Imagem Auditiva (MIA)
   
-#### Sistema Cognitivo (SC)
+### Sistema Cognitivo (SC)
 - Memória de Trabalho (MT)
 	- consiste na ativação de partes da memória de longa duração 
 - Memória de Curta Duração (MCD)
@@ -24,8 +24,8 @@ MPIH determina que nossa interação com computadores pode ser afetada pelo func
 	- princípio básico de operação do MPIH é o ciclo Reconhece-Age do 'PC'   
 - Memória de Longa Duração (MLD)
 
-sistema cognitivo recebe informação codificada simbolicamente na MCD ou MT e usa a informação armazenada previamente na MLD para tomar decisões de como responder. Assim parte para o sistema motor.
-#### Sistema Motor (SM)
+Sistema cognitivo recebe informação codificada simbolicamente na MCD ou MT e usa a informação armazenada previamente na MLD para tomar decisões de como responder. Assim parte para o sistema motor.
+### Sistema Motor (SM)
 - Processador Motor (PM)
 	- acionado pela ativação de certos chunks da memória de trabalho, colocando em ação conjuntos de músculos que concretizam a ação física 
 
