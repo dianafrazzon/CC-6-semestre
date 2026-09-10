@@ -7,4 +7,21 @@ MPIH determina que nossa interação com computadores pode ser afetada pelo func
 - Sistema Motor (SM)
 - Sistema Cognitivo (SC)
 
+---
+
 ![MPIH](https://github.com/dianafrazzon/CC-6-semestre/blob/main/Experiencia_de_Usuario/Arquivos/imagem_2026-09-09_195100367.png)
+
+#### Sistema Perceptual (SP)
+- Processador Perceptual (PP)
+- Memória Imagem Visual (MIV)
+- Memória Imagem Auditiva (MIA)
+  
+#### Sistema Cognitivo (SC)
+- Memória de Trabalho (MT)
+- Memória de Curta Duração (MCD)
+- Processador Cognitivo (PC)
+- Memória de Longa Duração (MLD)
+
+#### Sistema Motor (SM)
+- Processador Motor (PM)
+
